@@ -1,3 +1,11 @@
+
+comparing
+true / false
+conditional text print
+if condition
+else condition
+else if condition
+
 //console.log(4 > 9);
 //console.log(4 < 9);
 //console.log(9 > 4);
